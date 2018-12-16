@@ -4,9 +4,9 @@
   "description": "responsive portfolio website",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass -w dist/scss/ -o dist/css/ --recursive"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
-  "author": "salmaan",
+  "author": "saladgg",
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^2.0.1",
