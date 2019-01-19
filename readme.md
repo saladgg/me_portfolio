@@ -13,3 +13,7 @@ _ctrl+shift+v to preview me_
 - if you delete the main.css, do ctrl+s on main.scss while sass npm is running.
 - https://www.jqueryscript.net/lightbox/Image-Modal-Window-jQuery-Flavor-Lightbox.html
 - https://fancyapps.com/fancybox/3/docs/
+
+### deploy
+
+- me_portfolio\$npm run deploy
