@@ -72,4 +72,21 @@
   .projects {
     grid-template-columns: 1fr;
   }
+  main#contact div div {
+    padding: 5px;
+    font-size: 1.2rem;
+    justify-content: left;
+    border: 1.5px #fff solid;
+    @include easeOut;
+    &:hover {
+      padding: 0.8rem;
+      span {
+        color: set-text-color($secondary-color);
+      }
+    }
+  }
+  main#contact h1 {
+    font-size: 2.5rem;
+    margin-bottom: 5vh;
+  }
 }
