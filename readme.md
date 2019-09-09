@@ -14,6 +14,8 @@ _ctrl+shift+v to preview me_
 - https://www.jqueryscript.net/lightbox/Image-Modal-Window-jQuery-Flavor-Lightbox.html
 - https://fancyapps.com/fancybox/3/docs/
 
-### deploy
+### re-deploy after updates
 
+- delete gh-pages branches on the repo;
+- run me_portfolio\$ npm i gh-pages
 - me_portfolio\$npm run deploy
